@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Qubu First Week
 ---
 
 a)	My first impression of QuBu I was impressed because of the amount of shops already accepted to be on the app and how well products were laid out for the shops. However, I was slightly conflicted because it looked, to me, similar to other apps E.g. Just eats and Deliveroo.
