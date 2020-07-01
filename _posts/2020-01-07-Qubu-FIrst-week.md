@@ -15,4 +15,4 @@ d)	I did not particularly enjoy the way the data entry was done and how we had t
 e)	What I would do better is find a more efficient way of putting the products up on sanity as the process Shyam and I went through was quite discouraging for us to continue uploading products however we did not stop.
 
 
-[Qubu link:]("qubu.co.uk")
+[Qubu link:]("www.qubu.co.uk")
